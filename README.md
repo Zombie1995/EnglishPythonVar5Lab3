@@ -1,6 +1,6 @@
 # Lab-3
 
-![screenshot](screenshot.png)
+![screenshot](screen.png)
 
 ## Laboratory Work №3
 
