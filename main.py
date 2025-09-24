@@ -216,11 +216,6 @@ def main():
                           readonlybackground='black', fg='cyan')
     key_display.place(x=350, y=8)
     
-    # Дополнительная информация
-    info_label = tk.Label(control_frame, text="Формат: XXXXX-XXXXX-XXXXX (блок 2: +3 сдвиг, блок 3: -5 сдвиг)", 
-                         bg='black', fg='gray', font=('Arial', 8))
-    info_label.place(x=10, y=35)
-    
     # Запускаем главный цикл tkinter
     root.mainloop()
 
