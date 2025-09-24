@@ -1,5 +1,7 @@
 # Lab-3
 
+![screenshot](screenshot.png)
+
 ## Laboratory Work №3
 
 **Task**
